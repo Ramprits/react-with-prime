@@ -24,3 +24,7 @@ yarn-error.log*
 
 layout.css
 pages.css
+/config
+/script
+config
+script
